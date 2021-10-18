@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.exe
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.deps.json
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.runtimeconfig.json
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.dll
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\bin\Debug\netcoreapp3.1\Assignment2.Palindrome.pdb
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.AssemblyInfo.cs
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.dll
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.pdb
+C:\Users\PC\source\repos\CSharpMasters\Assignment2.Palindrome\obj\Debug\netcoreapp3.1\Assignment2.Palindrome.genruntimeconfig.cache
